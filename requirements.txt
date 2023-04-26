@@ -1,0 +1,17 @@
+asgiref==3.6.0
+beautifulsoup4
+Django==3.2.18
+django-cors-headers==3.7.0
+djangorestframework==3.11.0
+django-cities-light==3.9.2
+django-environ==0.4.5
+django-jsonfield==1.4.0
+djangorestframework==3.11.0
+psycopg2==2.8.4
+psycopg2-binary==2.8.6
+pytz==2023.3
+pillow==9.5.0
+requests
+sqlparse==0.4.3
+gunicorn
+typing-extensions==4.5.0
